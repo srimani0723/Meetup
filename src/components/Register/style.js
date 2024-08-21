@@ -21,6 +21,7 @@ export const MainBox = styled.div`
 `
 export const RegImg = styled.img`
   width: 50%;
+  max-width: 500px;
   @media screen and (max-width: 576px) {
     width: 90%;
   }
